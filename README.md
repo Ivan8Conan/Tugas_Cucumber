@@ -8,3 +8,4 @@ Terdiri dari 6 scenario :
  6. logout.feature
 
 Hasil screen capture testing :
+![ss_cucumber_testing](https://github.com/user-attachments/assets/abe34274-f3a1-4c0a-837a-18f6abc8cb50)
